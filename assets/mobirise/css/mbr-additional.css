@@ -982,7 +982,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sFCw1qGFAI button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1085,7 +1085,11 @@ a {
 .cid-tsSw9zycIy {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #e1a640;
+  background-image: url("../../../assets/images/honey-background-1920x980.png");
+}
+.cid-tsSw9zycIy .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.1;
 }
 .cid-tsSw9zycIy img,
 .cid-tsSw9zycIy .item-img {
